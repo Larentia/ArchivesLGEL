@@ -1,0 +1,50 @@
+Archive 
+
+ * ouverture de l'archive  
+
+Attributs : 
+
+	* Lien de la partie : Ok
+	* Numéro de la partie : Ok
+	* Titre de la partie : Ok 
+	* TypeGame {Carnage, Fun, Normale, Sérieuse, Spéciale} : Ok 
+	* NbJoueurs : Ok 
+	* Composition : Ok
+	* Liste Joueurs Ok (avec leur rôle) 
+
+----------------------------------------------------------------------------------------
+	* Premium {Yes/No} : X 
+	* Temps Débat : X
+	* Vocale / Mumble {Yes/No} : X (il faudrait les retirer de notre analyse) 
+	* Sans points {Yes/No} : X 
+	* Sélective {Yes/No} : X
+	* MDJ {Yes/No} : X
+	* Anonyme {Yes/No} : X
+	* Privée {Yes/No} : X 
+	* Vote caché {Yes/No} : X (cela implique que lorsqu'on calcule le nb votes, on a 0) 
+	* Vote obligatoire {Yes/No} : X (cela peut induire des erreurs de votes) 
+	* Capitaine {Yes/No} : X 
+
+Fonctions : 
+
+	* NbVotes : ok (au total et par joueur)
+	* NbDevotes : ok (au total et par joueur) 
+	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB} : ok 
+
+-------------------------------------------------------------------------------------------
+
+Votes 
+	* J1 texte J2 
+	* J1 texte J2 texte 
+	* J1 texte J2 image 
+	* J1 texte J2 texte image 
+	* J1 image J2 
+
+
+Devote 
+	"a retiré son vote"
+
+ 
+
+
+ 
