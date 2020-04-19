@@ -4,6 +4,7 @@ Archive
 	ex : (anciennes archives) 
 
 Attributs : 
+	* Date : X 
 	* Lien de la partie : Ok
 	* Numéro de la partie : Ok
 	* Titre de la partie : Ok 
