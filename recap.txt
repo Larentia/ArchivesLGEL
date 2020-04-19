@@ -1,9 +1,9 @@
 Archive 
-
- * ouverture de l'archive  
+ * ouverture de l'archive  (requête pour récupérer la page html) 
+ 	ex : https://archives.loups-garous-en-ligne.com/9991546.html
+	ex : (anciennes archives) 
 
 Attributs : 
-
 	* Lien de la partie : Ok
 	* Numéro de la partie : Ok
 	* Titre de la partie : Ok 
@@ -13,18 +13,27 @@ Attributs :
 	* Liste Joueurs Ok (avec leur rôle) 
 
 ----------------------------------------------------------------------------------------
+Options d'une partie : "Cette partie possède l'option OPTION" 
 	* Premium {Yes/No} : X 
-	* Temps Débat : X
+		ex : 
+	* Temps Débat : X (peut être calculé) 
 	* Vocale / Mumble {Yes/No} : X (il faudrait les retirer de notre analyse) 
+		Mumble : https://archives.loups-garous-en-ligne.com/9999996.html
+		Vocale : https://archives.loups-garous-en-ligne.com/9991546.html
 	* Sans points {Yes/No} : X 
 	* Sélective {Yes/No} : X
 	* MDJ {Yes/No} : X
+		ex : https://archives.loups-garous-en-ligne.com/9990572.html
 	* Anonyme {Yes/No} : X
+		ex : 
 	* Privée {Yes/No} : X 
+		ex : 
 	* Vote caché {Yes/No} : X (cela implique que lorsqu'on calcule le nb votes, on a 0) 
+		ex : 
 	* Vote obligatoire {Yes/No} : X (cela peut induire des erreurs de votes) 
+		ex : 
 	* Capitaine {Yes/No} : X 
-
+		ex : 
 Fonctions : 
 
 	* NbVotes : ok (au total et par joueur)
@@ -32,19 +41,45 @@ Fonctions :
 	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB} : ok 
 
 -------------------------------------------------------------------------------------------
-
-Votes 
+VOTES / DEVOTES 
+[21:24:32] J1 désigne J2
+[21:25:18] J1 a retiré son vote.
+   Type de vote 
 	* J1 texte J2 
 	* J1 texte J2 texte 
 	* J1 texte J2 image 
 	* J1 texte J2 texte image 
 	* J1 image J2 
 
-
-Devote 
+   Type dévote 
 	"a retiré son vote"
+   J1 a voté {J2 : nbFois, J4 : nbFois, J5 : nbFois}
 
+
+ -------------------------------------------------------------------------------------------
+ Joueur 
+ 	* Rôle
+		Sorcière : potion de mort {innocent, loup}, potion de vie {soi-même, autre}, moment d'utilisation des potions
+		Chasseur : tire {innocent, loup}
+	* NbVotes dans la partie 
+	* NbDevotes
+	* Liste des joueurs votés/nbFois/Durée de chaque vote 
+	* NbInterventions total / par tour (débat) 
+	* EnsInteventions (texte) 
+	* MomentMort 
+	* InnocentsVotes (JDF compris)
+	* LoupsVotes (IPDL, GML, ES (transfo?)
+
+
+ -------------------------------------------------------------------------------------------
+ Débat 
  
-
-
- 
+  d1 - La partie vient de commencer
+  d2 - La nuit tombe 
+       Temps des loups (vote {oui / non}, paroles {oui/non}
+  d3 - Le village se réveille sans J1
+       Débat 
+       
+       
+  dFin La partie terminée 
+  
