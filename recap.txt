@@ -2,6 +2,7 @@ Archive
  * ouverture de l'archive  (requête pour récupérer la page html) 
  	ex : https://archives.loups-garous-en-ligne.com/9991546.html
 	ex : (anciennes archives) 
+	ex : (error 404)
 
 Attributs : 
 	* Date : X 
