@@ -1,0 +1,66 @@
+Table : Infos 
+
+  * numero : numéro de l'archive 
+  * typeGame : {Carnage ; Fun ; Normale ; Sérieuse ; Spéciale}
+  * nbJoueurs : {6 à 50}
+  * titre : titre de la partie (nb de caractères limité) 
+  * date : date de création JJ/MM/AAAA
+  * createur : créateur de la partie 
+  * premium : {True / False}
+  * tpsDebat : {3,4,5,6} ?? 
+  * vocale/mumble : {True / False}
+  * sp : {True / False} (sans point) 
+  * selective : {True / False}
+  * mdj : {True / False}
+  * anonyme : {True / False}
+  * prive : {True / False}
+  * voteCache : {True / False}
+  * voteObligatoire : {True / False}
+  * capitaine : {True / False}
+  * gagnant : {Loups-Garous ; Villageois ; Personne ; Amoureux ; JDF ; LGB ; Lapin Blanc ; }
+  * nbVotes : XX
+  * nbDevotes : XX 
+  
+Table : Interventions 
+   * numero : numéro de l'archive 
+   * idJoueur : identifiant unique 
+   * nomJoueur : nom du joueur 
+   * horaire : heure de l'intervention 
+   * parole  : l'ensemble de l'intervention (nb de caractère limité) 
+   
+   
+Table : JoueurRole
+
+  * numero : numéro de l'archive 
+  * idJoueur : identifiant unique 
+  * role : rôle (rôle + rôle non défini)
+
+Table : JoueursPartieA8 
+  
+  * numero : numéro de l'archive
+  * j1 : nom du joueur
+  * j2 : nom du joueur
+  * j3 : nom du joueur
+  * j4 : nom du joueur
+  * j5 : nom du joueur
+  * j6 : nom du joueur
+  * j7 : nom du joueur
+  * j8 : nom du joueur
+ 
+ Table : CompositionPartieA8 
+  
+  * numero : numéro de l'archive
+  * role1 : nb du rôle {0 à 2 ?) 
+      .
+      .
+  * role30 : nb du rôle {0 à 2 ?) 
+  
+ Table : VotesPartieA8 + dévote
+ 
+   * numero : numero de la partie 
+   * idJoueurVotant 
+   * joueurVotant 
+   * horaire 
+   * idJoueurVote : null si dévote
+   * joueurVote  : Personne si dévote 
+   
