@@ -5,6 +5,7 @@ Archive
 	ex : (error 404)
 
 Attributs : 
+
 	* Date : X 
 	* Lien de la partie : Ok
 	* Numéro de la partie : Ok
@@ -16,36 +17,56 @@ Attributs :
 
 ----------------------------------------------------------------------------------------
 Options d'une partie : "Cette partie possède l'option OPTION" 
-	* Premium {Yes/No} : X 
-		ex : 
+	* Premium {Yes/No} : Ok
+		ex : https://archives.loups-garous-en-ligne.com/10150548.html
+		
 	* Temps Débat : X (peut être calculé) 
+	
 	* Vocale / Mumble {Yes/No} : X (il faudrait les retirer de notre analyse) 
 		Mumble : https://archives.loups-garous-en-ligne.com/9999996.html
 		Vocale : https://archives.loups-garous-en-ligne.com/9991546.html
+		
 	* Sans points {Yes/No} : X 
+		ex : https://archives.loups-garous-en-ligne.com/10137483.html 
+		
 	* Sélective {Yes/No} : X
+		ex : https://archives.loups-garous-en-ligne.com/10139913.html
+		
 	* MDJ {Yes/No} : X
 		ex : https://archives.loups-garous-en-ligne.com/9990572.html
+		
 	* Anonyme {Yes/No} : X
-		ex : 
+		ex :
+		
 	* Privée {Yes/No} : X 
-		ex : 
+		ex :
+		
 	* Vote caché {Yes/No} : X (cela implique que lorsqu'on calcule le nb votes, on a 0) 
-		ex : 
+		ex : https://archives.loups-garous-en-ligne.com/10151681.html
+		
 	* Vote obligatoire {Yes/No} : X (cela peut induire des erreurs de votes) 
-		ex : 
+		ex : https://archives.loups-garous-en-ligne.com/10151681.html
+		
 	* Capitaine {Yes/No} : X 
+		ex : https://archives.loups-garous-en-ligne.com/10151916.html
+		
+	* Ensevillisement : X
 		ex : 
+		
+	* Autres options : (Saint Patrick, Halloween) 
+	
 Fonctions : 
 
 	* NbVotes : ok (au total et par joueur)
 	* NbDevotes : ok (au total et par joueur) 
 	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB} : ok 
+	* Durée des votes : x 
 
 -------------------------------------------------------------------------------------------
 VOTES / DEVOTES 
 [21:24:32] J1 désigne J2
 [21:25:18] J1 a retiré son vote.
+
    Type de vote 
 	* J1 texte J2 
 	* J1 texte J2 texte 
@@ -57,12 +78,12 @@ VOTES / DEVOTES
 	"a retiré son vote"
    J1 a voté {J2 : nbFois, J4 : nbFois, J5 : nbFois}
 
-
  -------------------------------------------------------------------------------------------
  Joueur 
  	* Rôle
 		Sorcière : potion de mort {innocent, loup}, potion de vie {soi-même, autre}, moment d'utilisation des potions
 		Chasseur : tire {innocent, loup}
+		
 	* NbVotes dans la partie 
 	* NbDevotes
 	* Liste des joueurs votés/nbFois/Durée de chaque vote 
@@ -72,7 +93,6 @@ VOTES / DEVOTES
 	* InnocentsVotes (JDF compris)
 	* LoupsVotes (IPDL, GML, ES (transfo?)
 
-
  -------------------------------------------------------------------------------------------
  Débat 
  
@@ -81,7 +101,7 @@ VOTES / DEVOTES
        Temps des loups (vote {oui / non}, paroles {oui/non}
   d3 - Le village se réveille sans J1
        Débat 
-       
-       
+...
+...     
   dFin La partie terminée 
   
