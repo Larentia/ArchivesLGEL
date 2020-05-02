@@ -66,18 +66,28 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 Fonctions : 
 
 	* NbVotes : ok (au total et par joueur) : à revoir (iamge, ankou ...) 
+	
 	* NbDevotes : ok (au total et par joueur) : à revoir 
+	
 	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB, Ange} : à vérifier 
-		- Villageois 
-		- Loups
-		- Personne 
-		- Amoureux 
-		- JDF 
-		- LGB 
-		- LG
-		- Ange 
+		- Villageois :
+		- Loups      :
+		- Personne   :
+		- Amoureux   :
+		- JDF        :
+		- LGB        : 
+		- LG         :
+		- Ange       :
+		
 	* Durée des votes : x 
+	
 	* NbInterventions : x (pré-tchat, tchat loup, tchat mort, tchat soeurs, tchat frère) 
+		- pré-tchat   : X
+		- loup        : *OK*
+		- mort        : *OK*
+		- avec soeurs : X 
+		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html
+		- autre ?     : X
 	
 -------------------------------------------------------------------------------------------
 VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] ex : 
