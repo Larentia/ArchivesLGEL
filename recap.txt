@@ -6,40 +6,41 @@ Archive
 
 Attributs : 
 
-	* Date : JJ/MM/AAAA 
-	* Lien de la partie : Ok
-	* Numéro de la partie : Ok
-	* Titre de la partie : Ok 
-	* TypeGame {Carnage, Fun, Normale, Sérieuse, Spéciale} : Ok 
+	* Date : JJ/MM/AA 
+	* Lien de la partie : *OK*
+	* Numéro de la partie : *OK*
+	* Titre de la partie : *OK* 
+	* TypeGame {Carnage, Fun, Normale, Sérieuse, Spéciale} : *OK*
 		Carnage : https://archives.loups-garous-en-ligne.com/10136173.html
 		Fun : https://archives.loups-garous-en-ligne.com/10150548.html
 		Normale : https://archives.loups-garous-en-ligne.com/9991546.html
 		Sérieuse : https://archives.loups-garous-en-ligne.com/10139913.html
 		Spéciale : 
-	* NbJoueurs : Ok {6 à 50}
-	* Composition : Ok 
-	* Liste Joueurs Ok (avec leur rôle) 
+		
+	* NbJoueurs : *OK* {6 à 50}
+	* Composition : *OK* (mettre à jour si nouvelle carte ajoutée)  
+	* Liste Joueurs : *OK* (avec leur rôle) 
 
 ----------------------------------------------------------------------------------------
 
-	* Premium {Yes/No} : OK (icon) 
+	* Premium {Yes/No} : *OK* (icon) 
 		ex : https://archives.loups-garous-en-ligne.com/10150548.html
 		
-	* Temps Débat : X (peut être calculé) 
+	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) 
 
 Options d'une partie : "Cette partie possède l'option OPTION" 
 	
-	* Vocale / Mumble {Yes/No} : OK {vocable ; Mumble}
+	* Vocale / Mumble {Yes/No} : *OK* {vocale ; Mumble}
 		Mumble : https://archives.loups-garous-en-ligne.com/9999996.html
 		Vocale : https://archives.loups-garous-en-ligne.com/9991546.html
 		
-	* Sans points {Yes/No} : Ok {Partie Sans Points}
+	* Sans points {Yes/No} : *OK* {Partie Sans Points}
 		ex : https://archives.loups-garous-en-ligne.com/10137483.html 
 		
-	* Sélective {Yes/No} : OK {Sélective}
+	* Sélective {Yes/No} : *OK* {Sélective}
 		ex : https://archives.loups-garous-en-ligne.com/10139913.html
 		
-	* MDJ {Yes/No} : OK {div class='canal_mdj}
+	* MDJ {Yes/No} : *OK* {div class='canal_mdj}
 		ex : https://archives.loups-garous-en-ligne.com/9990572.html
 		
 	* Anonyme {Yes/No} : X
@@ -48,13 +49,13 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 	* Privée {Yes/No} : X 
 		ex :
 		
-	* Vote caché {Yes/No} : X (cela implique que lorsqu'on calcule le nb votes, on a 0) // Canal meneur 
+	* Vote caché {Yes/No} : *OK* (cela implique que lorsqu'on calcule le nb votes, on a 0) // Canal meneur 
 		ex : https://archives.loups-garous-en-ligne.com/10151681.html
 		
-	* Vote obligatoire {Yes/No} : X (cela peut induire des erreurs de votes) // Canal meneur 
+	* Vote obligatoire {Yes/No} : *OK* (cela peut induire des erreurs de votes) // Canal meneur 
 		ex : https://archives.loups-garous-en-ligne.com/10151681.html
 		
-	* Capitaine {Yes/No} : Ok   div class='canal_meneur' cette partie contient un Capitaine 
+	* Capitaine {Yes/No} : *OK*   div class='canal_meneur' cette partie contient un Capitaine 
 		ex : https://archives.loups-garous-en-ligne.com/10151916.html
 		
 	* Ensevillisement : X
@@ -64,11 +65,20 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 	
 Fonctions : 
 
-	* NbVotes : ok (au total et par joueur)
-	* NbDevotes : ok (au total et par joueur) 
-	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB, Ange} : 
+	* NbVotes : ok (au total et par joueur) : à revoir (iamge, ankou ...) 
+	* NbDevotes : ok (au total et par joueur) : à revoir 
+	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB, Ange} : à vérifier 
+		- Villageois 
+		- Loups
+		- Personne 
+		- Amoureux 
+		- JDF 
+		- LGB 
+		- LG
+		- Ange 
 	* Durée des votes : x 
-
+	* NbInterventions : x (pré-tchat, tchat loup, tchat mort, tchat soeurs, tchat frère) 
+	
 -------------------------------------------------------------------------------------------
 VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] ex : 
 
