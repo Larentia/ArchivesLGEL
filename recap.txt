@@ -85,10 +85,22 @@ Fonctions :
 	
 	* NbInterventions : x (pré-tchat, tchat loup, tchat mort, tchat soeurs, tchat frère) 
 		- pré-tchat   : X
-			- partie dans la même journée 
+			(la partie peut se lancer le jour X+1 mais le préchat peut contenir des interventions de X et/ou X+1) 
+			
+			- partie se joue dans la même journée 
+				- durant la même heure : 
+					- pré-tchat dans la même heure : 
+					- pré-tchat sur deux heures : https://archives.loups-garous-en-ligne.com/10139913.html
+				- sur deux heures différentes : 
+					- pré-tchat sur deux heures : 
+					- pré-tchat sur 3 voire + heures : 
+					
 			- partie sur deux journée (début de partie avant minuit, fin partie après minuit) 
+				ex :
 			- partie sur deux mois (début de partie fin du mois, fin de partie début mois suivant)
+				ex :
 			- partie sur deux années (début de partie 31/12/XX, fin de partie 01/01/XX+1
+				ex : 
 			
 		- loup        : *OK*
 		- mort        : *OK*
