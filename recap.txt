@@ -113,7 +113,9 @@ Fonctions :
 		- 
 	
 -------------------------------------------------------------------------------------------
-VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] ex : 
+VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] 
+ex : https://archives.loups-garous-en-ligne.com/10181764.html 
+
 
 [21:24:32] J1 désigne J2
 [21:25:18] J1 a retiré son vote.
