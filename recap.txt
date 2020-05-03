@@ -3,6 +3,7 @@ Archive
  	ex : https://archives.loups-garous-en-ligne.com/9991546.html
 	ex : (anciennes archives) 
 	ex : (error 404)
+	ex : partie buguée ( à trouver) 
 
 Attributs : 
 
@@ -15,7 +16,7 @@ Attributs :
 		Fun : https://archives.loups-garous-en-ligne.com/10150548.html
 		Normale : https://archives.loups-garous-en-ligne.com/9991546.html
 		Sérieuse : https://archives.loups-garous-en-ligne.com/10139913.html
-		Spéciale : 
+		Spéciale : https://archives.loups-garous-en-ligne.com/10174854.html
 		
 	* NbJoueurs : *OK* {6 à 50}
 	* Composition : *OK* (mettre à jour si nouvelle carte ajoutée)  
@@ -26,7 +27,7 @@ Attributs :
 	* Premium {Yes/No} : *OK* (icon) 
 		ex : https://archives.loups-garous-en-ligne.com/10150548.html
 		
-	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) 
+	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) => A voir 
 
 Options d'une partie : "Cette partie possède l'option OPTION" 
 	
@@ -61,7 +62,8 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 	* Ensevillisement : X
 		ex : 
 		
-	* Autres options : (Saint Patrick, Halloween) 
+	* Autres options : (Saint Patrick, Halloween)
+		ex : Saint Patrick : https://archives.loups-garous-en-ligne.com/10174269.html
 	
 Fonctions : 
 
@@ -83,11 +85,19 @@ Fonctions :
 	
 	* NbInterventions : x (pré-tchat, tchat loup, tchat mort, tchat soeurs, tchat frère) 
 		- pré-tchat   : X
+			- partie dans la même journée 
+			- partie sur deux journée (début de partie avant minuit, fin partie après minuit) 
+			- partie sur deux mois (début de partie fin du mois, fin de partie début mois suivant)
+			- partie sur deux années (début de partie 31/12/XX, fin de partie 01/01/XX+1
+			
 		- loup        : *OK*
 		- mort        : *OK*
 		- avec soeurs : X 
 		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html
 		- autre ?     : X
+		
+		----------------------------------------------------------------------------
+		- 
 	
 -------------------------------------------------------------------------------------------
 VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] ex : 
