@@ -64,6 +64,7 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 		
 	* Autres options : (Saint Patrick, Halloween)
 		ex : Saint Patrick : https://archives.loups-garous-en-ligne.com/10174269.html
+		     Halloween : https://archives.loups-garous-en-ligne.com/8989066.html
 	
 Fonctions : 
 
@@ -78,7 +79,6 @@ Fonctions :
 		- Amoureux   :
 		- JDF        :
 		- LGB        : 
-		- LG         :
 		- Ange       :
 		
 	* Durée des votes : x 
@@ -105,7 +105,7 @@ Fonctions :
 			
 		- loup        : *OK*
 		- mort        : *OK*
-		- avec soeurs : X 
+		- avec soeurs : https://archives.loups-garous-en-ligne.com/10182823.html
 		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html
 		- autre ?     : X
 		
