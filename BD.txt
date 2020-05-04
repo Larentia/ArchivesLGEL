@@ -4,25 +4,25 @@ Table : Infos
   * typeGame : {Carnage ; Fun ; Normale ; Sérieuse ; Spéciale}
   * nbJoueurs : {6 à 50}
   * titre : titre de la partie (nb de caractères limité) 
-  * date : date de création JJ/MM/AAAA
+  * date : date de création JJ/MM/AA
   * createur : créateur de la partie 
   * premium : {True / False}
-  * tpsDebat : {3,4,5,6} ?? 
   * vocale/mumble : {True / False}
   * sp : {True / False} (sans point) 
   * selective : {True / False}
   * mdj : {True / False}
   * anonyme : {True / False}
-  * prive : {True / False}
   * voteCache : {True / False}
   * voteObligatoire : {True / False}
   * capitaine : {True / False}
   * gagnant : {Loups-Garous ; Villageois ; Personne ; Amoureux ; JDF ; LGB ; Lapin Blanc ; }
   * nbVotes : XX
   * nbDevotes : XX 
+  * nbInterventions : XXX
   
 Table : Interventions 
    * numero : numéro de l'archive 
+   * typePartie 
    * idJoueur : identifiant unique 
    * nomJoueur : nom du joueur 
    * horaire : heure de l'intervention 
@@ -33,6 +33,7 @@ Table : JoueurRole
 
   * numero : numéro de l'archive 
   * idJoueur : identifiant unique 
+  * nomJoueur 
   * role : rôle (rôle + rôle non défini)
 
 Table : JoueursPartieA8 
