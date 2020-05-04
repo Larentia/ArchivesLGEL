@@ -73,17 +73,24 @@ Fonctions :
 	* NbDevotes : ok (au total et par joueur) : à revoir 
 	
 	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB, Ange} : à vérifier 
-		- Villageois :
-		- Loups      :
-		- Personne   :
-		- Amoureux   :
-		- JDF        :
-		- LGB        : 
-		- Ange       :
+		- Villageois : *OK*
+		- Loups      : *OK*
+		- Personne   : *OK*
+		- Amoureux   : *OK*
+		- JDF        : 
+		- LGB        : https://archives.loups-garous-en-ligne.com/10182480.html
+		- Ange       : (normalement Ok)
 		
 	* Durée des votes : x 
 	
 	* NbInterventions : x (pré-tchat, tchat loup, tchat mort, tchat soeurs, tchat frère) 
+		dernier message PT [XX:16:00]
+		début de partie       [XX:16]
+		nuit des loups : si parole : pas de souci 
+			       : si pas de parole => PROBLEME 
+		réveil                [XX:16]
+		premier message débat [XX:16:YY]
+		
 		- pré-tchat   : X
 			(la partie peut se lancer le jour X+1 mais le préchat peut contenir des interventions de X et/ou X+1) 
 			
