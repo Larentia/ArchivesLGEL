@@ -63,12 +63,12 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 		ex : 
 		
 	* Autres options : (Saint Patrick, Halloween)
-		ex : Saint Patrick : https://archives.loups-garous-en-ligne.com/10174269.html
-		     Halloween : https://archives.loups-garous-en-ligne.com/8989066.html
+		ex : Saint Patrick : *OK* https://archives.loups-garous-en-ligne.com/10174269.html
+		     Halloween : https://archives.loups-garous-en-ligne.com/8989066.html (Pseudo différent = à ne pas prendre en compte)
 	
 Fonctions : 
 
-	* NbVotes : ok (au total et par joueur) : à revoir (iamge, ankou ...) 
+	* NbVotes : ok (au total et par joueur) : à revoir (image, ankou ...) 
 	
 	* NbDevotes : ok (au total et par joueur) : à revoir 
 	
