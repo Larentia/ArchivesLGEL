@@ -92,8 +92,6 @@ Fonctions :
 		premier message débat [XX:16:YY]
 		
 		- pré-tchat   : X
-			(la partie peut se lancer le jour X+1 mais le préchat peut contenir des interventions de X et/ou X+1) 
-			
 			- partie se joue dans la même journée 
 				- durant la même heure : 
 					- pré-tchat dans la même heure : 
@@ -116,12 +114,12 @@ Fonctions :
 		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html
 		- autre ?     : X
 		
-		----------------------------------------------------------------------------
-		- 
+		---------------------------------------------------------------------------
 	
 -------------------------------------------------------------------------------------------
 VOTES / DEVOTES [PRENDRE EN COMPTE LE VOTE DE L'ANKOU] 
 ex : https://archives.loups-garous-en-ligne.com/10181764.html 
+ex : https://archives.loups-garous-en-ligne.com/10170395.html
 
 
 [21:24:32] J1 désigne J2
