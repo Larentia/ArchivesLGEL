@@ -1,13 +1,21 @@
-Archive 
+Archive : il existe plusieurs types d'archives :
+	- type 1 : ancienne version [à voir]                 || min : 3695229 - max : 5672915
+	- type 2 : convertie [à voir]                        || min : 5672953 - max : 5777002
+	- type 3 : nouvelle avec date sans histo [à voit]    || min : 5777004 - max : 5777541
+	- type 4 : nouvelle avec date avec histo [ok]        || min : 5779601 - max : - 
+	
+	
  * ouverture de l'archive  (requête pour récupérer la page html) 
+ 
  	ex : https://archives.loups-garous-en-ligne.com/9991546.html
-	ex : (anciennes archives) 
-	ex : (error 404)
-	ex : partie buguée ( à trouver) 
+	ex : (anciennes archives) : https://archives.loups-garous-en-ligne.com/5000001.html
+	ex : (error 404) : https://archives.loups-garous-en-ligne.com/5000000.html
+	ex : partie buguée : https://archives.loups-garous-en-ligne.com/5777011.html
+		En attente des joueurs... Le service est probablement surchargé, merci de patienter.
 
 Attributs : 
-
-	* Date : JJ/MM/AA 
+	- dicoRoles : {role : carte}
+-------------------------------------------------------------------------------------	
 	* Lien de la partie : *OK*
 	* Numéro de la partie : *OK*
 	* Titre de la partie : *OK* 
@@ -21,15 +29,14 @@ Attributs :
 	* NbJoueurs : *OK* {6 à 50}
 	* Composition : *OK* (mettre à jour si nouvelle carte ajoutée)  
 	* Liste Joueurs : *OK* (avec leur rôle) 
-
+	* Date : JJ/MM/AA
+	--- xxx --- 
+	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) => A voir 
 ----------------------------------------------------------------------------------------
+Options d'une partie : 
 
 	* Premium {Yes/No} : *OK* (icon) 
 		ex : https://archives.loups-garous-en-ligne.com/10150548.html
-		
-	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) => A voir 
-
-Options d'une partie : "Cette partie possède l'option OPTION" 
 	
 	* Vocale / Mumble {Yes/No} : *OK* {vocale ; Mumble}
 		Mumble : https://archives.loups-garous-en-ligne.com/9999996.html
@@ -61,10 +68,8 @@ Options d'une partie : "Cette partie possède l'option OPTION"
 		
 	* Ensevillisement : X
 		ex : 
-		
-	* Autres options : (Saint Patrick, Halloween)
-		ex : Saint Patrick : *OK* https://archives.loups-garous-en-ligne.com/10174269.html
-		     Halloween : https://archives.loups-garous-en-ligne.com/8989066.html (Pseudo différent = à ne pas prendre en compte)
+	* Saint Patrick : *OK* https://archives.loups-garous-en-ligne.com/10174269.html
+	* Halloween : https://archives.loups-garous-en-ligne.com/8989066.html (Pseudo différent = à ne pas prendre en compte)
 	
 Fonctions : 
 
@@ -110,8 +115,8 @@ Fonctions :
 			
 		- loup        : *OK*
 		- mort        : *OK*
-		- avec soeurs : https://archives.loups-garous-en-ligne.com/10182823.html
-		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html
+		- avec soeurs : https://archives.loups-garous-en-ligne.com/10182823.html [A  faire]
+		- avec frères : https://archives.loups-garous-en-ligne.com/10151681.html [A faire]
 		- autre ?     : X
 		
 		---------------------------------------------------------------------------
