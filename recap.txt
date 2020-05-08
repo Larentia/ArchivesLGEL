@@ -51,8 +51,8 @@ Options d'une partie :
 	* MDJ {Yes/No} : *OK* {div class='canal_mdj}
 		ex : https://archives.loups-garous-en-ligne.com/9990572.html
 		
-	* Anonyme {Yes/No} : X
-		ex :
+	* Anonyme {Yes/No} : X : Cette partie possède l'option Anonyme :
+		ex : https://www.loups-garous-en-ligne.com/jeu/index.php?partie=10229755
 		
 	* Privée {Yes/No} : X 
 		ex :
