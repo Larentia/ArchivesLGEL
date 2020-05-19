@@ -83,7 +83,7 @@ Fonctions :
 	* Gagnant de la partie {Villageois, Loups, Personne, Amoureux, JDF, LGB, LB, Ange} : à vérifier 
 		- Villageois : *OK*
 		- Loups      : *OK*
-		- Personne   : *OK*
+		- Personne   : https://archives.loups-garous-en-ligne.com/9406125.html
 		- Amoureux   : *OK*
 		- JDF        : 
 		- LGB        : https://archives.loups-garous-en-ligne.com/10182480.html
