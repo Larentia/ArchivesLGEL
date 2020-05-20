@@ -1,15 +1,15 @@
 Archive : il existe plusieurs types d'archives :
-	- type 1 : ancienne version [à voir]                 || min : 3695229 - max : 5672915
-	- type 2 : convertie [à voir]                        || min : 5672953 - max : 5777002
-	- type 3 : nouvelle avec date sans histo [à voit]    || min : 5777004 - max : 5777541
-	- type 4 : nouvelle avec date avec histo [ok]        || min : 5779601 - max : - 
+	- type 1 : ancienne version 	                     || min : 3695229 - max : 5672915     Date : 30/11/2015 - 07/07/2017 
+	- type 2 : convertie [à voir]                        || min : 5672953 - max : 5777002     Date : ---------- - 30/07/2017
+	- type 3 : nouvelle avec date sans histo [à voir]    || min : 5777004 - max : 5777541     Date : 30/07/2017 - 30/07/2017 
+	- type 3 : nouvelle avec date avec histo [ok]        || min : 5779601 - max : - 
 	
 	
  * ouverture de l'archive  (requête pour récupérer la page html) 
  
  	ex : https://archives.loups-garous-en-ligne.com/9991546.html
-	ex : (anciennes archives) : https://archives.loups-garous-en-ligne.com/5000001.html
 	ex : (error 404) : https://archives.loups-garous-en-ligne.com/5000000.html
+	ex : coupure d'internet 
 	ex : partie buguée : https://archives.loups-garous-en-ligne.com/5777011.html
 		En attente des joueurs... Le service est probablement surchargé, merci de patienter.
 
@@ -29,9 +29,15 @@ Attributs :
 	* NbJoueurs : *OK* {6 à 50}
 	* Composition : *OK* (mettre à jour si nouvelle carte ajoutée)  
 	* Liste Joueurs : *OK* (avec leur rôle) 
-	* Date : JJ/MM/AA
-	--- xxx --- 
-	* Temps Débat : X (peut être calculé + 30 sec si égalité durant le tour) => A voir 
+	----------------------------------------------
+	* Date début : JJ/MM/AA
+	* Date fin : 
+	* Créateur 
+	* Heure début 
+	* Heure fin 
+	* Temps Débat : *Ok* 
+	* Times : différentes heures de la partie 
+	
 ----------------------------------------------------------------------------------------
 Options d'une partie : 
 
