@@ -1,5 +1,5 @@
 Archive : il existe plusieurs types d'archives :
-	- type 1 : ancienne version 	                     || min : 3695229 - max : 5672915     Date : 30/11/2015 - 07/07/2017 
+	- type 1 : ancienne version - Nb : 1977686           || min : 3695229 - max : 5672915     Date : 30/11/2015 - 07/07/2017 
 	- type 2 : convertie [à voir]                        || min : 5672953 - max : 5777002     Date : ---------- - 30/07/2017
 	- type 3 : nouvelle avec date sans histo [à voir]    || min : 5777004 - max : 5777541     Date : 30/07/2017 - 30/07/2017 
 	- type 3 : nouvelle avec date avec histo [ok]        || min : 5779601 - max : - 
