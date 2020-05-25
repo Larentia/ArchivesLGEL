@@ -75,8 +75,8 @@ Options d'une partie :
 		<div class='canal_meneur'><img class='msg-icon' src='assets/images/icon-capitaine-2.png'>
 		ex : https://archives.loups-garous-en-ligne.com/10151916.html
 		
-	* Ensevillisement : X
-		ex : 
+	* Ensevillisement : Cette partie possède l’option rôles des morts cachés : quand un joueur meurt, sa véritable identité restera cachée jusqu’à la fin de la partie !
+		ex : https://www.loups-garous-en-ligne.com/jeu/index.php?partie=10370753
 	* Saint Patrick : *OK* https://archives.loups-garous-en-ligne.com/10174269.html
 	* Halloween : https://archives.loups-garous-en-ligne.com/8989066.html (Pseudo différent = à ne pas prendre en compte)
 	
