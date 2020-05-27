@@ -233,5 +233,28 @@ Loup-Garou Blanc               : https://archives.loups-garous-en-ligne.com/3695
 Chasseur Bavard                : 
 Corbeau                        : https://archives.loups-garous-en-ligne.com/3695407.html
 
- 
-  
+-----------------------------------------------------------------------------------------------------
+
+Victimes Nuits 
+
+Innocent seul                  : https://archives.loups-garous-en-ligne.com/5150004.html
+Couple mort                    : https://archives.loups-garous-en-ligne.com/5150005.html
+Couple + innocent              : https://archives.loups-garous-en-ligne.com/5150001.html
+Personne                       : https://archives.loups-garous-en-ligne.com/5150003.html 
+Chasseur (tire qqn)            : https://archives.loups-garous-en-ligne.com/5150005.html
+			       : https://archives.loups-garous-en-ligne.com/5150006.html
+
+
+
+Victime Jours
+
+Chasseur                       : https://archives.loups-garous-en-ligne.com/5150002.html 
+Couple tiré par le chasseur    : https://archives.loups-garous-en-ligne.com/5150002.html 
+Bouc                           : https://archives.loups-garous-en-ligne.com/5150003.html 
+Egalité 1                      : https://archives.loups-garous-en-ligne.com/5150003.html 
+Egalité 2                      : https://archives.loups-garous-en-ligne.com/5150003.html 
+Egalité 1 puis mort            : https://archives.loups-garous-en-ligne.com/5150007.html 
+
+
+
+
