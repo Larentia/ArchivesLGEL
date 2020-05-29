@@ -158,17 +158,17 @@ ex : https://archives.loups-garous-en-ligne.com/10170395.html
  -------------------------------------------------------------------------------------------
  
  
- Ancienne 
+ Ancienne archive 
  
- Victoire  
  
+ TYPE PARTIE 
  Carnage                 : https://archives.loups-garous-en-ligne.com/3695313.html
  Fun                     : https://archives.loups-garous-en-ligne.com/3695280.html
  Normale                 : https://archives.loups-garous-en-ligne.com/3695706.html
  Sérieuse                : https://archives.loups-garous-en-ligne.com/3695565.html
  Spéciale                : https://archives.loups-garous-en-ligne.com/3695595.html
  
- 
+ VICTOIRE
  Loups                   : https://archives.loups-garous-en-ligne.com/3695229.html
  Villageois              : https://archives.loups-garous-en-ligne.com/3695280.html
  Ange                    : https://archives.loups-garous-en-ligne.com/3696228.html
@@ -181,7 +181,7 @@ ex : https://archives.loups-garous-en-ligne.com/10170395.html
  Archives de test        : https://archives.loups-garous-en-ligne.com/3695233.html
  Probleme avec dates     : https://archives.loups-garous-en-ligne.com/3695544.html
  
- 
+ OPTIONS 
  Premium                 : X
  Vocale                  : X
  Mumble                  : https://archives.loups-garous-en-ligne.com/3696820.html
@@ -198,6 +198,7 @@ ex : https://archives.loups-garous-en-ligne.com/10170395.html
  Privée                  : ? 
 
 ----------------------------------------------------------------------------------------------------------------------------------
+CARTE - LISTE JOUEURS / COMPOSITION 
 Simple Villageois              : https://archives.loups-garous-en-ligne.com/3695405.html
 Loup-Garou                     : https://archives.loups-garous-en-ligne.com/3695405.html
 Voyante                        :
@@ -236,7 +237,6 @@ Corbeau                        : https://archives.loups-garous-en-ligne.com/3695
 -----------------------------------------------------------------------------------------------------
 
 Victimes Nuits 
-
 Innocent seul                  : https://archives.loups-garous-en-ligne.com/5150004.html
 Couple mort                    : https://archives.loups-garous-en-ligne.com/5150005.html
 Couple + innocent              : https://archives.loups-garous-en-ligne.com/5150001.html
@@ -244,17 +244,26 @@ Personne                       : https://archives.loups-garous-en-ligne.com/5150
 Chasseur (tire qqn)            : https://archives.loups-garous-en-ligne.com/5150005.html
 			       : https://archives.loups-garous-en-ligne.com/5150006.html
 
-
-
 Victime Jours
-
 Chasseur                       : https://archives.loups-garous-en-ligne.com/5150002.html 
 Couple tiré par le chasseur    : https://archives.loups-garous-en-ligne.com/5150002.html 
 Bouc                           : https://archives.loups-garous-en-ligne.com/5150003.html 
 Egalité 1                      : https://archives.loups-garous-en-ligne.com/5150003.html 
 Egalité 2                      : https://archives.loups-garous-en-ligne.com/5150003.html 
 Egalité 1 puis mort            : https://archives.loups-garous-en-ligne.com/5150007.html 
+Couple                         : https://archives.loups-garous-en-ligne.com/3715816.html
+
+-------------------------------------------------------------------------------------------------------
+VOTES 
+Ankou                          : 
+Capitaine tour cap             : 
+Capitaine mort jour à l'aide du vote cap : 
+IDV                            : 
+
+--------------------------------------------------------------------------------------------------
+Nouvelle 
+
+Anonyme                        : https://archives.loups-garous-en-ligne.com/10337189.html
 
 
-
-
+IPDL : https://archives.loups-garous-en-ligne.com/10388677.html
