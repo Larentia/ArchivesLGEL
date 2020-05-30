@@ -210,10 +210,13 @@ Cupidon                        : https://archives.loups-garous-en-ligne.com/3695
 Voleur                         : https://archives.loups-garous-en-ligne.com/3695431.html
 Ancien                         : https://archives.loups-garous-en-ligne.com/3695405.html
 Bouc Emissaire                 : https://archives.loups-garous-en-ligne.com/3695451.html
+                               : https://archives.loups-garous-en-ligne.com/3715821.html
 Salvateur                      : https://archives.loups-garous-en-ligne.com/3695405.html
 Idiot du Village               : https://archives.loups-garous-en-ligne.com/3695405.html
+			       : https://archives.loups-garous-en-ligne.com/3715846.html 
 Joueur de Flûte                : https://archives.loups-garous-en-ligne.com/3695409.html
 Enfant Sauvage                 : https://archives.loups-garous-en-ligne.com/3695405.html
+			       : https://archives.loups-garous-en-ligne.com/3715900.html (es transfo sur déco)
 Chevalier à l'Epée rouillée    : X
 Villageois-Villageois          : https://archives.loups-garous-en-ligne.com/3695595.html
 Ange                           : https://archives.loups-garous-en-ligne.com/3696228.html
@@ -246,12 +249,16 @@ Chasseur (tire qqn)            : https://archives.loups-garous-en-ligne.com/5150
 
 Victime Jours
 Chasseur                       : https://archives.loups-garous-en-ligne.com/5150002.html 
+Chasseur ne tire pas           : https://archives.loups-garous-en-ligne.com/3715855.html (Le chasseur n'a pas tiré) 
 Couple tiré par le chasseur    : https://archives.loups-garous-en-ligne.com/5150002.html 
+			       : https://archives.loups-garous-en-ligne.com/3715848.html 
 Bouc                           : https://archives.loups-garous-en-ligne.com/5150003.html 
 Egalité 1                      : https://archives.loups-garous-en-ligne.com/5150003.html 
 Egalité 2                      : https://archives.loups-garous-en-ligne.com/5150003.html 
+			       : https://archives.loups-garous-en-ligne.com/3715828.html
 Egalité 1 puis mort            : https://archives.loups-garous-en-ligne.com/5150007.html 
 Couple                         : https://archives.loups-garous-en-ligne.com/3715816.html
+			       : https://archives.loups-garous-en-ligne.com/3715834.html
 
 -------------------------------------------------------------------------------------------------------
 VOTES 
