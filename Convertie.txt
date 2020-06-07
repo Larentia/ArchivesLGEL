@@ -1,0 +1,104 @@
+Convertie archive 
+ 
+ 
+ TYPE PARTIE 
+ Carnage                 : https://archives.loups-garous-en-ligne.com/5681092.html
+ Fun                     : https://archives.loups-garous-en-ligne.com/5681048.html
+ Normale                 : 
+ Sérieuse                : https://archives.loups-garous-en-ligne.com/5680848.html
+ Spéciale                : https://archives.loups-garous-en-ligne.com/5672953.html
+ 
+ VICTOIRE
+ Loups                   : https://archives.loups-garous-en-ligne.com/5672953.html
+ Villageois              : https://archives.loups-garous-en-ligne.com/5681048.html
+ Ange                    : https://archives.loups-garous-en-ligne.com/5673805.html
+                         : https://archives.loups-garous-en-ligne.com/5673805.html
+ Amoureux                : https://archives.loups-garous-en-ligne.com/5680813.html
+ Joueur de Flûte         : 
+ Loup Garou Blanc        : https://archives.loups-garous-en-ligne.com/5679738.html
+ Personne                : https://archives.loups-garous-en-ligne.com/5681092.html
+ (Lapin Blanc)           :  X 
+ 
+ Archives de test        : 
+ Probleme avec dates     : 
+ 
+ OPTIONS 
+ Premium                 : https://archives.loups-garous-en-ligne.com/5680813.html
+ Vocale                  : X
+ Mumble                  :
+ Sélective               : https://archives.loups-garous-en-ligne.com/5680848.html
+ Anonyme                 : https://archives.loups-garous-en-ligne.com/5681048.html
+ Sans Points             :
+ MDJ                     : https://archives.loups-garous-en-ligne.com/5673168.html
+ Capitaine               : https://archives.loups-garous-en-ligne.com/5681048.html 
+ Vote Caché              : https://archives.loups-garous-en-ligne.com/5681092.html
+ Vote Obligatoire        : https://archives.loups-garous-en-ligne.com/5679609.html
+ Saint-Patrick           : X
+ Halloween               : X
+ Ensevillisement         : ?
+ Privée                  : https://archives.loups-garous-en-ligne.com/5679196.html
+ 
+ 
+ 
+ CARTE - LISTE JOUEURS / COMPOSITION 
+Simple Villageois              : 
+Loup-Garou                     : https://archives.loups-garous-en-ligne.com/5681092.html
+Voyante                        : 
+Voyante Bavarde                : https://archives.loups-garous-en-ligne.com/5681092.html
+Petite Fille                   : 
+Sorcière                       : https://archives.loups-garous-en-ligne.com/5680813.html
+Chasseur                       : https://archives.loups-garous-en-ligne.com/5681092.html
+Cupidon                        : https://archives.loups-garous-en-ligne.com/5680813.html
+Voleur                         : https://archives.loups-garous-en-ligne.com/5680813.html
+Ancien                         : https://archives.loups-garous-en-ligne.com/5672953.html
+Bouc Emissaire                 : https://archives.loups-garous-en-ligne.com/5672953.html
+                               : 
+Salvateur                      : https://archives.loups-garous-en-ligne.com/5680813.html
+Idiot du Village               : https://archives.loups-garous-en-ligne.com/5672953.html			                         :  
+Joueur de Flûte                : https://archives.loups-garous-en-ligne.com/5672953.html
+Enfant Sauvage                 : https://archives.loups-garous-en-ligne.com/5672953.html
+			                         : 
+Chevalier à l'Epée rouillée    : https://archives.loups-garous-en-ligne.com/5680087.html
+Villageois-Villageois          : https://archives.loups-garous-en-ligne.com/5672953.html
+Ange                           : https://archives.loups-garous-en-ligne.com/5680087.html
+Infect Père des Loups          : https://archives.loups-garous-en-ligne.com/5680813.html
+Grand Méchant Loup             : https://archives.loups-garous-en-ligne.com/5672953.html
+Sœur                           : https://archives.loups-garous-en-ligne.com/5681048.html
+Montreur d'Ours                : https://archives.loups-garous-en-ligne.com/5672953.html
+Renard                         : https://archives.loups-garous-en-ligne.com/5680087.html
+Chien-Loup                     : https://archives.loups-garous-en-ligne.com/5680087.html
+Frère                          : https://archives.loups-garous-en-ligne.com/5672953.html
+Juge Bègue                     : X 
+Marionnettiste                 : X
+Chaman                         : https://archives.loups-garous-en-ligne.com/5680813.html
+Lapin Blanc                    : X
+Ankou                          : X
+Noctambule                     : X
+Loup-Garou Blanc               : https://archives.loups-garous-en-ligne.com/5672953.html
+Chasseur Bavard                : X
+Corbeau                        : https://archives.loups-garous-en-ligne.com/5680813.html
+
+
+
+Victimes Nuits 
+Innocent seul                  : 
+Plusieurs innocents            : https://archives.loups-garous-en-ligne.com/5681092.html
+Couple mort                    : 
+Couple + innocent              : 
+Personne                       : 5679550
+Chasseur (tire qqn)            : 
+Chasseur & couple	             : https://archives.loups-garous-en-ligne.com/5679485.html
+
+Victime Jours
+Chasseur                       :  https://archives.loups-garous-en-ligne.com/5681092.html
+                               : https://archives.loups-garous-en-ligne.com/5673006.html
+Chasseur ne tire pas           :  
+Couple tiré par le chasseur    :  
+Couple	                       : https://archives.loups-garous-en-ligne.com/5681092.html
+Bouc                           : 
+Egalité 1                      : https://archives.loups-garous-en-ligne.com/5681092.html 
+Egalité 2                      : https://archives.loups-garous-en-ligne.com/5673006.html
+			                         :
+Egalité 1 puis mort            : 
+Couple                         : https://archives.loups-garous-en-ligne.com/3715816.html
+			       : https://archives.loups-garous-en-ligne.com/3715834.html
